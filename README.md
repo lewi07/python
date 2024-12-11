@@ -1,4 +1,4 @@
-<h1>Python</h1>
+<h1>PYTHON</h1>
 
 <p>Python is a high-level, interpreted programming language known for its readability and simplicity. It is widely used in web development, data analysis, machine learning, automation, and more.</p>
 
